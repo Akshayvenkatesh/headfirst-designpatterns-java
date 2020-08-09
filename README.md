@@ -13,13 +13,13 @@ There are mainly three types of design patterns:
 This repository contains the examples of design patterns implemented using JAVA.
 The Examples are based on the Head First Design Patterns.
 
-1. Class example
-2. Stragery Pattern
-3. Observer Pattern
-4. Decorator Pattern
-5. Factory Pattern
-6. Abstract Factory Pattern
-7. Singleton Pattern
-8. Command Pattern
-9. Adapter Pattern
+1.  Class example
+2.  Strategy Pattern
+3.  Observer Pattern
+4.  Decorator Pattern
+5.  Factory Pattern
+6.  Abstract Factory Pattern
+7.  Singleton Pattern
+8.  Command Pattern
+9.  Adapter Pattern
 10. Facade Pattern
