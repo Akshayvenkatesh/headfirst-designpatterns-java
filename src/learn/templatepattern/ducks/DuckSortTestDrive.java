@@ -16,12 +16,6 @@ public class DuckSortTestDrive {
 		System.out.println("\nAfter sorting:");
 		display(ducks);
 		
-		int[] a = new int[]{13,5,62,57};
-		Arrays.sort(a);
-		for (int aa : a) {
-			System.out.println(aa);
-		}
-
 	}
 
 	public static void display(Duck[] ducks) {
