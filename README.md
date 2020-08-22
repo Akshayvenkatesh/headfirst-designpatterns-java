@@ -1,19 +1,17 @@
-# Designpatterns(Java)
+# Designpatterns
 
 Design patterns are the solutions identified for the commonly occured problems in designing.
-They give us the how the class nad objects should be designed and interacted.
-Design patterns are the idea to solve the commenly occured problem. So it is language independent.
+They give us the how the class and objects should be designed and interacted.
+Design patterns are the idea to solve the commonly occured problem. So it is language independent.
 
 ### Types of Design Patterns
-
-There are mainly three types of design patterns:
 
 1.  Creational
 2.  Structural
 3.  Behavioral
 
 This repository contains the examples of design patterns implemented using JAVA.
-The Examples are based on the Head First Design Patterns.
+The Examples are based on the Head First Design Patterns Book.
 
 1.  Class example
 2.  Strategy Pattern
