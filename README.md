@@ -25,3 +25,4 @@ The Examples are based on the Head First Design Patterns Book.
 10. Facade Pattern
 11. Iterator Pattern
 12. Composite Pattern
+13. State Pattern
