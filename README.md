@@ -26,3 +26,4 @@ The Examples are based on the Head First Design Patterns Book.
 11. Iterator Pattern
 12. Composite Pattern
 13. State Pattern
+14. Proxy Pattern
