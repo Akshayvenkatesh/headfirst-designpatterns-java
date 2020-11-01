@@ -4,6 +4,7 @@ public class RedheadDuck extends Duck {
 
 	public RedheadDuck() {
 		flyBehavior = new FlyNoWay();
+		quackBehavior = new Quack();
 	}
 	
 	

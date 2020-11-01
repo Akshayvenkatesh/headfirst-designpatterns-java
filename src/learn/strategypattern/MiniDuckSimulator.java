@@ -13,7 +13,7 @@ public class MiniDuckSimulator {
 		Duck redheadDuck = new RedheadDuck();
 		redheadDuck.display();
 		redheadDuck.performFlyBehavior();
-		//assigning behavior dynamically with modifying the class.//assigning behavior dynamically with modifying the class.
+		//assigning behavior dynamically without modifying the class.
 		redheadDuck.setFlyBehavior(new FlyWithWings());
 		redheadDuck.performFlyBehavior();
 		
