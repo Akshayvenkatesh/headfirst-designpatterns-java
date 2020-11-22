@@ -2,7 +2,7 @@ package learn.singletonpattern.doublecheck;
 
 public class Singleton {
 
-	private static Singleton uniqueInstance;
+	private volatile static Singleton uniqueInstance;
 
 	private Singleton() {
 	}
